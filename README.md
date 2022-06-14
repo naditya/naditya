@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naditya
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on mylabs
 - 📫 How to reach me, http:/naditya.github.io
 
 <!---
